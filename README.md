@@ -8,3 +8,7 @@
 
 #### Page 3.
 ![Django Test 3](https://github.com/user-attachments/assets/799e9e2b-0cb7-4ca3-ada9-e1e0cd18514b)
+
+#### admin.
+![image](https://github.com/user-attachments/assets/13bf2370-6710-4be7-9154-5db837497a7d)
+![image](https://github.com/user-attachments/assets/dc666f85-598b-49eb-9ba3-0144d0df834b)
